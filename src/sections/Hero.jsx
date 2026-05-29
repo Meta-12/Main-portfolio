@@ -101,7 +101,7 @@ const Hero = () => {
                   icon: FaYoutube,
                   href: "https://youtube.com/@meta-coding-u2c?si=BLzecLOA1LiSU47V",
                 },
-                { icon: FaTelegram, href: "https://t.me/Metasokakun" },
+                { icon: FaTelegram, href: "https://t.me/Meta_Sok_Skun" },
               ].map((social, index) => {
                 return (
                   <a

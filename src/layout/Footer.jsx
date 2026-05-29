@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin,FaTelegram } from "react-icons/fa";
 const socialLinks = [
   { icon: FaGithub, href: "https://github.com/Meta-12", label: "GitHub" },
   { icon: FaLinkedin, href: "https://www.linkedin.com/in/meta-sok-b22942388/", label: "LinkedIn" },
-  { icon: FaTelegram, href: "https://t.me/Metasokakun", label: "Telegram" },
+  { icon: FaTelegram, href: "https://t.me/Meta_Sok_Skun", label: "Telegram" },
 ];
 
 const footerLinks = [

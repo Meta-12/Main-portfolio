@@ -73,7 +73,9 @@ const Navbar = () => {
                 {link.lable}
               </a>
             ))}
-            <Button>Contact Me</Button>
+            <a href="#contact">
+              <Button className="w-full">Contact Me</Button>
+            </a>
           </div>
         </div>
       )}

@@ -17,6 +17,7 @@ const skills = [
     technologies: [
       "HTML",
       "CSS",
+      
       "Javascript",
       "Bootstrap",
       "Tailwind CSS",
