@@ -73,7 +73,7 @@ const Navbar = () => {
                 {link.lable}
               </a>
             ))}
-            <a href="#contact">
+            <a href="#contact" onClick={() => SetIsMobileMenuOpen(false)}>
               <Button className="w-full">Contact Me</Button>
             </a>
           </div>
